@@ -1,1 +1,1 @@
-TinDog Starting Files
+User interface of tindog application download website.
